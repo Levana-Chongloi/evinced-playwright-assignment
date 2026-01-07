@@ -120,3 +120,16 @@ Open the HTML files under:
 
 evinced-reports/
 
+
+## Screenshots
+
+Relevant screenshots from the test execution (including validation states)
+are included under:
+
+evinced-reports/screenshots/
+
+
+These screenshots were copied from Playwright’s temporary `test-results`
+folder into a stable location so they can be reviewed in the repository.
+
+
