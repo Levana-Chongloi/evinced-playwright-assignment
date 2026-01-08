@@ -121,7 +121,7 @@ Open the HTML files under:
 evinced-reports/
 
 
-## Screenshots
+**## Screenshots
 
 Relevant screenshots from the test execution (including validation states)
 are included under:
